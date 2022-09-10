@@ -1,3 +1,1 @@
-new line
-experiment with amend
-new data
+this file should be ignored

@@ -1,0 +1,18 @@
+# comments can be left here
+
+# ignore file 
+access.log
+
+# ignore directory
+node_modules/
+
+# ignore catalog
+/coverage/
+
+# игнорируются все файды с расширением sqlite3 в директории db
+# но не игнорируются внутри вложенных каталогов
+/db/*.sqlite3
+
+#  игнорировать все txt
+#  на любых уровнях вложенности
+doc/**/*.txt
